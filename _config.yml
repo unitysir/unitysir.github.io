@@ -1,0 +1,26 @@
+# Site settings
+name: UnitySir
+email: unitysir@gmail.com 
+author: Zj
+url: 
+resume_site: 
+github: https://github.com/unitysir
+baseurl: 
+description: 青山不改，绿水长流
+meta_description: 个人博客;生命不止;折腾不休
+motto: 今天，又是充满希望的一天!
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 5
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: unitysir
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 2032de943119bd7e9429df3bf17a629a
+

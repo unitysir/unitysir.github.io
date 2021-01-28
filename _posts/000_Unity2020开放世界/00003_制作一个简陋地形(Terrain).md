@@ -1,0 +1,54 @@
+---
+layout: post
+title: UnitySir - 制作一个简陋的地形
+date: 2021-01-28 17:56:40
+categories:
+tag: Unity2020开放世界
+---
+
+
+
+
+
+## 需要实现功能
+
+利用`Terrain`创建一个凹凸不平的地面
+
+绘制地面和草地
+
+## 知识点
+
+在资源商店中找到 免费的素材 `Fantasy Forest Environment Free Sample` 并导入
+
+在网上下载一张 `stone texture` 和 一张 `grass texture` 并导入
+
+
+
+`Paint Terrain`  画地面
+
+`Paint Tree` 画树
+
+`Paint Details` 画草
+
+`Paint Texture` 绘制贴图
+
+`Normal Map` 法线贴图
+
+
+
+## 完整代码
+
+
+
+
+
+## 参考链接
+
+
+
+## 如果内容对你有所帮助：
+<div><img src="https://pic4.zhimg.com/v2-87fbc8ee6ab3fd92f423d414d039b627_b.jpeg" width="300px"/>
+<img src="https://pic2.zhimg.com/v2-b8ab4acf7899b2ced11287cdbd8279b5_b.jpeg" width="300px"/></div>
+
+### [UnitySir (bilibili)](https://space.bilibili.com/308511666)
+### B站ID：UnitySir
